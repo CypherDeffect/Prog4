@@ -1,0 +1,16 @@
+MODEL
+    1. Model define as regras de negócio (Criação)
+    2. Entidade do sistema, engloba os métodos e regras
+    3. Persistência de dados
+        Representação do que está salvo no DB, regras, comportamentos
+
+VIEW
+    1. Interface
+    2. Ponta final do sistema
+    3. Entrada e saida de dados
+
+CONTROLLER 
+    1. Intermediário entre model e VIEW
+    2. Regras de negócio (Implementação)
+
+    
